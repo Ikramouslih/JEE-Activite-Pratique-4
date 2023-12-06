@@ -57,6 +57,7 @@ Le lancement de consul via la commande : `consul agent -server -bootstrap-expect
 Vault, également créé par HashiCorp, est un outil complet et extensible pour la gestion de secrets et la protection d'informations sensibles. Il offre un moyen sécurisé de stocker et de gérer l'accès à des données confidentielles telles que des mots de passe, des clés API et d'autres informations sensibles. Vault propose des fonctionnalités avancées telles que la rotation automatique des secrets et l'intégration transparente avec différents systèmes d'authentification. C'est une solution polyvalente largement utilisée dans les environnements modernes où la sécurité des données est une préoccupation majeure.
 Le lancement de Vault : 
 
+<img width="960" alt="Screenshot 2023-12-06 130948" src="https://github.com/Ikramouslih/JEE-Activite-Pratique-4/assets/60039200/b5c3e188-ebe3-495a-8e1c-e159de366a09">
 <img width="960" alt="Screenshot 2023-12-06 124653" src="https://github.com/Ikramouslih/JEE-Activite-Pratique-4/assets/60039200/e659c3ff-63ab-4c4f-8842-ce016d35176d">
 <img width="960" alt="Screenshot 2023-12-06 124810" src="https://github.com/Ikramouslih/JEE-Activite-Pratique-4/assets/60039200/44fa4706-7195-41c5-bcb8-d850ec04eb91">
 <img width="960" alt="Screenshot 2023-12-06 124836" src="https://github.com/Ikramouslih/JEE-Activite-Pratique-4/assets/60039200/1227a20b-02a0-4e46-942d-0d40929f2032">
