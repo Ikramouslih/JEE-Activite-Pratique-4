@@ -1,0 +1,29 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$USER_HOME$/Downloads/New folder/config-service/config-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/New folder/order-service/order-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/New folder/inventory-service/inventory-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/New folder/customar-service/customar-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/New folder/gatway-service/pom.xml" />
+        <option value="$USER_HOME$/Downloads/billing-service/billing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/billing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/customar-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gatway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Downloads/New folder/gatway-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
